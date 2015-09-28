@@ -8,8 +8,10 @@ Sugestões e contribuições podem ser enviadas por meio de Issues e Pull Reques
 
 Sinta-se a vontade para contribuir com esse repositório.
 
-Atenciosamente, 
-COORDENAÇÃO-GERAL DE TECNOLOGIA DA INFORMAÇÃO
-SubSecretaria de Planejamento, Orçamento e Administração
-Secretaria-Executiva
+Atenciosamente,
+
+COORDENAÇÃO-GERAL DE TECNOLOGIA DA INFORMAÇÃO  
+SubSecretaria de Planejamento, Orçamento e Administração  
+Secretaria-Executiva  
 Ministério da Cultura
+
