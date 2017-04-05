@@ -10,7 +10,7 @@ Sinta-se a vontade para contribuir com esse repositório.
 
 Atenciosamente,
 
-COORDENAÇÃO-GERAL DE INFRAESTRUTURA TECNOLÓGICA
+COORDENAÇÃO-GERAL DE INFRAESTRUTURA TECNOLÓGICA  
 SubSecretaria de Gestão Estratégica 
 Secretaria-Executiva  
 Ministério da Cultura
