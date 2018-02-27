@@ -1,7 +1,9 @@
-**Plano Diretor de Tecnologia de Informação e Comunicações - Ministério da Cultura**
-----------
+# Plano Diretor de Tecnologia de Informação e Comunicações 
 
-Vigência 2018-2020
+**Ministério da Cultura
+Vigência 2018-2020**
+
+----------
 
 ## Equipe 
 << Informar os nomes que compõem a equipe de elaboração do PDTI (coordenador, integrantes e colaboradores), com a respectiva portaria de designação (ou outro documento normativo), e responsáveis pela aprovação do PDTI (Alta Direção, Comitê de TI), em ordem hierárquica>>
