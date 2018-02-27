@@ -47,70 +47,68 @@ Autor
 << A partir do Relatório de Resultados do PDTI – RR-PDTI – anterior, descrever, de forma sucinta, quais foram os resultados alcançados com o plano antecedente, identificando quais metas foram cumpridas, quais não foram, os motivos pelos quais não foram cumpridas, quais fatores intervenientes contribuíram para o não cumprimento das metas, se as metas foram realistas e adequadas e o que seria necessário para capacitar a organização a cumprir as novas metas relacionadas com o uso e a gestão de TI >>
 << Caso o órgão não possua PDTI anterior, deve-se explicitar a ausência deste fato e informar sobre outro possível instrumento de planejamento que tenha sido utilizado, como por exemplo o PPA, PEI ou EGTIC >>
 
-## 8  REFERENCIAL ESTRATÉGICO DE TI
+# 8  REFERENCIAL ESTRATÉGICO DE TI
 
-### 8.1  Missão
+## 8.1  Missão
 << Descrever a missão da unidade de TI, ressaltando o motivo da existência desta unidade na organização.“Por que existimos?”, “O que fazemos” e “Para quem fazemos?” >>
 
-### 8.2  Visão
+## 8.2  Visão
 << Descrever a visão futura da unidade de TI, estabelecendo quais objetivos se busca alcançar. “O que queremos no futuro?”, “Onde pretendemos chegar?” >>
 
-### 8.3  Valores
+## 8.3  Valores
 << Descrever os valores e atributos que definem o comportamento e comprometimento da unidade de TI com o órgão, quais são aqueles que facilitam a participação das pessoas na execução da missão para o alcance da visão. “Como tratar as áreas de negócio?”, “Qual a nossa responsabilidade junto ao órgão?” >>
 
-### 8.4  Objetivos Estratégicos
-
+## 8.4  Objetivos Estratégicos
 << Descrever os objetivos estratégicos da unidade de TI que estão alinhados aos objetivos estratégicos da organização >>
 
-### 8.5  Análise de SWOT
+## 8.5  Análise de SWOT
 << Inserir a matriz de SWOT, apresentando o posicionamento estratégico da unidade de TI, com a identificação dos pontos fortes e fracos, das oportunidades e ameaças em relação aos ambientes interno e externo >>
 
-## 9  ALINHAMENTO COM A ESTRATÉGIA DA ORGANIZAÇÃO
+# 9  ALINHAMENTO COM A ESTRATÉGIA DA ORGANIZAÇÃO
 << Descrever as Estratégias da Organização, estabelecidas a partir das principais políticas e planos governamentais e da instituição, e relacioná-las com as necessidades de TI de forma a garantir que as metas e ações de TI sejam organizadas para atendê-las >>
 
-## 10  INVENTÁRIO DE NECESSIDADES
+# 10  INVENTÁRIO DE NECESSIDADES
 
-### 10.1  Plano de Levantamento das Necessidades 
+## 10.1  Plano de Levantamento das Necessidades 
 << Este plano deve abarcar, de forma sucinta, como foi planejado este levantamento, em suma, contendo a relação das áreas envolvidas, como foi a prospecção das necessidades (se ocorreu conforme o planejado, se não, informar os problemas) e quais foram os instrumentos de levantamento de necessidades >>
 
-### 10.2  Critérios de Priorização
+## 10.2  Critérios de Priorização
 << Informar os critérios que foram utilizados para priorizar as necessidades, assim como os possíveis aglutinadores utilizados para esta organização >>
 
-### 10.3  Necessidades Identificadas
+## 10.3  Necessidades Identificadas
 << Descrever as necessidades (problemas ou oportunidades) identificadas em todo o órgão e que estão relacionadas à TI, priorizadas conforme os critérios definidos >>
 
-### 11  CAPACIDADE ESTIMADA DE EXECUÇÃO DA TI
+# 11  CAPACIDADE ESTIMADA DE EXECUÇÃO DA TI
 << Descrever a capacidade estimada para execução de novos projetos e atividades. Deve-se mensurar também a capacidade total de execução da TI, bem como os recursos alocados nos atuais projetos e atividades.>>
 
-## 12  PLANO DE METAS E AÇÕES
+# 12  PLANO DE METAS E AÇÕES
 
-### 12.1  Plano de Metas
+## 12.1  Plano de Metas
 << Inserir o plano de metas, o qual definirá marcos mensuráveis, controláveis e quantificáveis para a satisfação de cada necessidade registrada >>
  
-### 12.2  Plano de Ações
+## 12.2  Plano de Ações
 << Inserir o plano de ações, o qual definirá quais ações devem ser executadas para que as metas definidas sejam alcançadas, apontando responsáveis, prazos e recursos necessários >>
 
-## 13  PLANO DE GESTÃO DE PESSOAS
+# 13  PLANO DE GESTÃO DE PESSOAS
 << Inserir o plano de gestão de pessoas, indicando o quantitativo e a qualificação dos recursos humanos necessários para se alcançar as metas e as ações estabelecidas. Caso não se disponha de quadros adequados, deve-se planejar o quantitativo e a qualificação ideal. É importante fazer esta análise considerando a execução direta e indireta (contratada) >>
 
-## 14  PLANO ORÇAMENTÁRIO DO PDTI
+# 14  PLANO ORÇAMENTÁRIO DO PDTI
 << Inserir o Plano Orçamentário, classificando as despesas entre investimento e custeio, bem como consolidar o valor necessário das ações planejadas >>
 
-## 15  PLANO DE GESTÃO DE RISCOS
+# 15  PLANO DE GESTÃO DE RISCOS
 << Inserir o plano de gestão de riscos, com os riscos identificados, probabilidade de ocorrência, impacto, resposta, contingência, além dos responsáveis para cada risco identificado >>
 
-## 16  PROCESSO DE REVISÃO DO PDTI 
+# 16  PROCESSO DE REVISÃO DO PDTI 
 << Informar a periodicidade das revisões que ocorrerão durante a validade do PDTI, bem como os responsáveis pelas revisões e os motivos que podem provocar atualizações no documento >>
 
-## 17  FATORES CRÍTICOS DE SUCESSO
+# 17  FATORES CRÍTICOS DE SUCESSO
 << Registrar os fatores ou as condições que podem definir o sucesso ou o fracasso da execução do PDTI >>
 
-## 18  CONCLUSÃO
+# 18  CONCLUSÃO
 << Descrever a importância da TI para o negócio da organização >>
 << Descrever a necessidade de execução, bem como sensibilizar sobre a importância do acompanhamento contínuo do PDTI para o alcance das metas estabelecidas >>
 
-## 19  ANEXOS
-
+# 19  ANEXOS
 << Informações adicionais poderão ser incluídas:
 Plano de trabalho do projeto de elaboração do PDTI, incluindo o cronograma;
 Relatório de Resultados do PDTI anterior;
