@@ -1,51 +1,49 @@
+**Plano Diretor de Tecnologia de Informação e Comunicações - Ministério da Cultura**
+----------
 
-#Plano Diretor de Tecnologia de Informação
-2018-2020
+Vigência 2018-2020
 
-##FOLHA DE ROSTO
-
+## Equipe 
 << Informar os nomes que compõem a equipe de elaboração do PDTI (coordenador, integrantes e colaboradores), com a respectiva portaria de designação (ou outro documento normativo), e responsáveis pela aprovação do PDTI (Alta Direção, Comitê de TI), em ordem hierárquica>>
 
-##HISTÓRICO DE ALTERAÇÕES
+## Apresentação
+<< Descrever o objetivo do PDTI, destacando o propósito deste documento no contexto da organização >>
 
+## Histórico de Versões
+
+<< Descrever o período de revisão do PDTI >>
 << Registrar o controle de alterações (versões) do documento>>
 Data
 Versão
 Descrição
 Autor
 
-##Índice / Sumário
-<< Incluir índice/sumário do PDTI>>
+## **Sumário**
 
+[TOC]
 
-#APRESENTAÇÃO
-<< Descrever o objetivo do PDTI, destacando o propósito deste documento no contexto da organização >>
-<< Descrever brevemente o conteúdo do PDTI >>
+# 1  INTRODUÇÃO
 << Descrever a abrangência do PDTI >> 
-<< Descrever o período de validade  do PDTI >> 
-<< Descrever o período de revisão do PDTI >>
-
-
-## 1  INTRODUÇÃO
+<< Descrever brevemente o conteúdo do PDTI >>
 << Descrever os fatores motivacionais para a elaboração do PDTI. >>
 << Descrever, de maneira sucinta, o alinhamento com as estratégias, políticas e demais instrumentos de planejamento do órgão >>
 
-## 2  TERMOS E ABREVIAÇÕES
+# 2  TERMOS E ABREVIAÇÕES
 << Inserir tabela de significados dos principais termos e abreviações utilizados no decorrer do PDTI >>
 
-## 3  METODOLOGIA APLICADA PARA ELABORAÇÃO
+# 3  METODOLOGIA APLICADA PARA ELABORAÇÃO
 << Descrever brevemente a metodologia utilizada para elaboração do PDTI, bem como se alguma boa prática ou ferramenta foi aplicada >>
 
-## 4  DOCUMENTOS DE REFERÊNCIA
+# 4  DOCUMENTOS DE REFERÊNCIA
 << Listar os documentos mais relevantes utilizados para a elaboração do PDTI, tais como: PPA, LDO, LOA, Plano Estratégico do Órgão (PEI), EGTIC, PETI, PDTI vigente, regimento interno, leis, decretos, instruções normativas, acórdãos >>
 
-## 5  PRINCÍPIOS E DIRETRIZES	
+# 5  PRINCÍPIOS E DIRETRIZES	
 << Descrever os princípios que determinam o ponto de partida, bem como as diretrizes que serão os norteadores para o alcance dos objetivos do PDTI. Eles orientarão o conteúdo do PDTI, priorizando as necessidades e definindo os critérios para aceitação dos riscos >>
 
-## 6  ORGANIZAÇÃO DA TI 
+# 6  ORGANIZAÇÃO DA TI 
 << Descrever a TI organizacional quanto à estrutura, à arquitetura, aos processos e aos recursos de TI. Informar o contexto geral em que se insere a unidade de TI na organização, apresentando a estrutura do órgão e da unidade de TI, por meio de organogramas. Evidenciar a hierarquia e as relações de subordinação e comunicação. Informar atividades e funções desenvolvidas pela unidade de TI >>
 
-## 7  RESULTADOS DO PDTI ANTERIOR 
+# 7  RESULTADOS DO PDTI ANTERIOR 
 << A partir do Relatório de Resultados do PDTI – RR-PDTI – anterior, descrever, de forma sucinta, quais foram os resultados alcançados com o plano antecedente, identificando quais metas foram cumpridas, quais não foram, os motivos pelos quais não foram cumpridas, quais fatores intervenientes contribuíram para o não cumprimento das metas, se as metas foram realistas e adequadas e o que seria necessário para capacitar a organização a cumprir as novas metas relacionadas com o uso e a gestão de TI >>
 << Caso o órgão não possua PDTI anterior, deve-se explicitar a ausência deste fato e informar sobre outro possível instrumento de planejamento que tenha sido utilizado, como por exemplo o PPA, PEI ou EGTIC >>
 
