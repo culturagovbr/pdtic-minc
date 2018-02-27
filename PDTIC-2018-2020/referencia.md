@@ -1,7 +1,6 @@
 # Plano Diretor de Tecnologia de Informação e Comunicações 
 
-**Ministério da Cultura
-Vigência 2018-2020**
+**Ministério da Cultura - Vigência 2018-2020**
 
 ----------
 
