@@ -1,2 +1,2 @@
-1. Dois espaços antes de uma quebra de linha se transformam na tag </br>
+1. Utilizar as fontes do Google API
 2. 
